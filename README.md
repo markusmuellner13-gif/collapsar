@@ -44,5 +44,6 @@ leaderboard just reports as unavailable until configured.
 
 ## Deployment
 
-Deployed on Vercel with the GitHub integration enabled, so every push to
-`main` triggers a new production deployment automatically.
+Live at https://collapsar-one.vercel.app — deployed on Vercel with the
+GitHub integration enabled, so every push to this branch (the repo's
+default branch) triggers a new production deployment automatically.
